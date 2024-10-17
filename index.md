@@ -11,7 +11,7 @@
 https://scholarworks.iupui.edu/handle/1805/22278
 
 
-## Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. 2019 IEEE Intelligent Transportation Systems Conference, ITSC 2019.  
+## Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. 2019 IEEE Intelligent Transportation Systems Conference, ITSC 2019.
 https://ieeexplore.ieee.org/document/8917344
 
 
