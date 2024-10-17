@@ -1,123 +1,26 @@
+# Telcommunication Professional Portfolio
 ---
-layout: default
----
+## RF and Operations
+### Technologies (5g, 4g, 3g, 2g)
+5G-NR, LTE, Network optimization, Integration, Software deployment. Installation, Integration, Commissioning, and troubleshooting of RF products, Installation, Integration, Commissioning, and troubleshooting of Microwave and Fiber transport products.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Determination of Sensor Characteristics of Curb and Development of Surrogate Curb for the Evaluation of Vehicle Active Safety System. 
+https://scholarworks.iupui.edu/handle/1805/22278
 
 
-### Definition lists can be used with HTML syntax.
+## Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. 2019 IEEE Intelligent Transportation Systems Conference, ITSC 2019.  
+https://ieeexplore.ieee.org/document/8917344
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Development of Surrogate Grass for the Evaluation of Vehicle Road Departure Mitigation Systems. 2020 IEEE 23rd International Conference on Intelligent Transportation Systems, ITSC 2020. 
+https://ieeexplore.ieee.org/document/9294196
 
-```
-The final element.
-```
+## Infrared Reflectance Requirements of the Concrete Divider Surrogate for Road Departure Mitigation System Testing. FastZero2019. 
+https://www.semanticscholar.org/paper/Infrared-Reflectance-Requirements-of-the-Concrete-Li-Saha/5643b7a07d9ddf4eb773ebafec1bdfb1a4c9436e
+
+## Radar Reflectance Requirements of the Surrogate Concrete Divider for Testing of the Vehicle Road Departure Mitigation Systems. 
+FastZero2019. 
+
